@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/cuda_error/gem5_fusion_cuda_error
+m5 dumpstats
+m5 exit
+

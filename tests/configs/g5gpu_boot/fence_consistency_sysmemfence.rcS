@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/fence_consistency/gem5_fusion_fence_consistency_sysmemfence
+m5 dumpstats
+m5 exit
+

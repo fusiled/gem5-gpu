@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/int3_bug/gem5_fusion_int3_bug
+m5 dumpstats
+m5 exit
+

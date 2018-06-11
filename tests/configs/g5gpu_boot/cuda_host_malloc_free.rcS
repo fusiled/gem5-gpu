@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/cuda_host_malloc_free/gem5_fusion_cuda_host_malloc_free
+m5 dumpstats
+m5 exit
+

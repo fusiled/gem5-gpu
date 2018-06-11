@@ -1,0 +1,4 @@
+m5 resetstats
+/benchmarks/unittests/kernel_launch/gem5_fusion_kernel_launch 2 0
+m5 dumpstats
+m5 exit

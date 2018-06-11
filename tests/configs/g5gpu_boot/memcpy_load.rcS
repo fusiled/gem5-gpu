@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/memcpy_load/gem5_fusion_memcpy_load
+m5 dumpstats
+m5 exit
+

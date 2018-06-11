@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/atomics/gem5_fusion_atomics
+m5 dumpstats
+m5 exit
+

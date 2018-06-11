@@ -1,0 +1,5 @@
+m5 resetstats
+/benchmarks/unittests/pitch/gem5_fusion_pitch
+m5 dumpstats
+m5 exit
+
